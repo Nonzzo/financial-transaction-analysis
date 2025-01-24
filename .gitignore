@@ -1,0 +1,27 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+
+# Logs
+*.log
+
+# Database
+*.db
+pg_data/
+postgres_data/
+
+# Docker
+*.env
+
+# IDE
+.vscode/
+.idea/
+
+# Tableau
+*.twb
+*.twbx
