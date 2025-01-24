@@ -79,7 +79,7 @@ The project is containerized using Docker Compose for seamless deployment.
 ```
 financial-transaction-analysis/  
 ├── data_model/  
-│   ├── erd.png (ER Diagram)  
+│   ├── financialAnalysisTablesERD.png (ER Diagram)  
 │   ├── schemas.sql (DDL for database schemas)  
 │   └── data_populate.py (Script to generate data)  
 ├── analysis/  

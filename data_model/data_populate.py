@@ -1,6 +1,5 @@
-# -------------------------------
-# Step 2: Python Script for Data Population
-# -------------------------------
+# Python Script for Data Population
+
 
 import psycopg2
 from faker import Faker
