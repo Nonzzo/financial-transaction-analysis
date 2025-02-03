@@ -1,4 +1,4 @@
-# Deep Dive: Financial Transaction Analysis
+# Data Modeling Deep Dive: Financial Transaction Analysis
 
 ## Objective
 This project provides a robust and efficient data model for managing and analyzing financial transactions in a banking or fintech application. The focus is on customer account management, transaction tracking, fraud detection, and analytics. It incorporates PostgreSQL, PostGIS, Python, Faker for data generation, and Tableau for visualization.
